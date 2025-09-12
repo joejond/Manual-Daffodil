@@ -16,6 +16,21 @@
 | Nama | Desc |
 |:----:|:----:|
 | Alamat IP | Informasi alamat IP modul |
-| Subnet Mask | Informasi Netmask dari Modul | 
+| Subnet Mask | Informasi alamat Netmask dari modul | 
+| Gateway | Informasi alamat Gateway modul |
+| MAC | Informasi MAC Address Ethernet modul |
+
+### Informasi Modem
+| Nama | Desc |
+|:----:|:----:|
+| Mode |  |
+| IMEI | Informasi IMEI Modem Celular |
+|Status SIM|Informasi ada atau tidaknya SIM Card|
+|Penyedia Jaringan|Informasi Jaringan yang terkoneksi saat ini|
+|Koneksi|Informasi ada tidaknya internet saat ini|
+|Sinyal|Informasi Kualitas Signal|
+
+### 
+
 
 
