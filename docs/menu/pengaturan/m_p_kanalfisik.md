@@ -23,3 +23,5 @@
 |Aktif|pengaturan mengaktifkan atau menonaktifkan kanal ini.<br> __Aktif/NonAktif__|
 
 > note: jika kanal diskrit dimatikan, maka di menu [Data](menu/m_data.md), data diskrit/digital tidak akan di tampilkan, dan register yang asalnya digunakan untuk input digital aktif akan digunakan oleh data berikutnya.
+
+> Setelah data selesai tekan tombol <span style="color:blue; font-weight:bold">Simpan</span> lalu <span style="color:orange; font-weight:bold">Semua perubahan perlu di simpan ke memori flash</span> lalu <span style="color:blue; font-weight:bold">Simpan Konfigurasi</span> agar konfigurasi disimpan secara permanen.
