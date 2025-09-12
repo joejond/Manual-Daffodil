@@ -6,7 +6,9 @@
 * [Menu](start_menu.md "Menu")
   * [Login](menu/m_login.md)
   * [Beranda](menu/m_beranda.md)
-  * [Data](m_data.md)
+  * [Data](menu/m_data.md)
+  * Pengaturan
+    * [ID Tag](menu/pengaturan/m_p_idtag.md)
 <!-- * API
   * [Reference](./api/ref.md) -->
-* [External Link](https://sauran.monita.co.id)
+<!-- * [External Link](https://sauran.monita.co.id) -->
