@@ -22,7 +22,7 @@ Id Tag dibagi dalam beberapa kategori
 |Tipe|Informasi tipe data dari nilai id tag|tidak bisa dirubah|
 
 
-Setelah data selesai tekan tombol <span style="color:blue; font-weight:bold">Simpan</span> lalu <span style="color:orange; font-weight:bold">Semua perubahan perlu di simpan ke memori flash</span> agar konfigurasi disimpan secara permanen.
+Setelah data selesai tekan tombol <span style="color:blue; font-weight:bold">Simpan</span> lalu <span style="color:orange; font-weight:bold">Semua perubahan perlu di simpan ke memori flash</span> lalu <span style="color:blue; font-weight:bold">Simpan Konfigurasi</span> agar konfigurasi disimpan secara permanen.
 
 
 
