@@ -15,6 +15,6 @@ Detail informasinya:
 
 
 
-> Untuk melakukan pengaturan data register, bisa masuk ke halaman [Pengaturan > Id Tag](../menu/pengaturan/m_p_idtag.md).
+> Untuk melakukan pengaturan data register, bisa masuk ke halaman [Pengaturan > Id Tag](menu/pengaturan/m_p_idtag.md).
 
 

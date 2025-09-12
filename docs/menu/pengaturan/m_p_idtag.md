@@ -1,4 +1,4 @@
-# Pengaturan > ID Tag
+# Pengaturan ID Tag
 
 > Halaman yang digunakan untuk melakukan pengaturan data dari semua ID Tag
 

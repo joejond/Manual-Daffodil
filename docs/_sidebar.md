@@ -9,6 +9,8 @@
   * [Data](menu/m_data.md)
   * Pengaturan
     * [ID Tag](menu/pengaturan/m_p_idtag.md)
+    * [Kanal Fisik](menu/pengaturan/m_p_kanalfisik.md)
+    * [Tanggal & Waktu](menu/pengaturan/m_p_datetime.md)
 <!-- * API
   * [Reference](./api/ref.md) -->
 <!-- * [External Link](https://sauran.monita.co.id) -->
