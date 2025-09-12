@@ -28,6 +28,14 @@
     background: transparent !important;
   }
 
+  .sidebar .app-name,
+  .sidebar .app-name-link {
+    display: block !important;
+    text-align: left !important;
+    padding-left: 2px !important;  /* ganti padding kiri */
+    margin-left: 2px !important;
+  }
+
 
 
   </style>
@@ -37,7 +45,7 @@
   <div id="app">Pelase wait ...</div>
   <script>
     window.$docsify = {
-      name: 'Monita Daffodil',
+      name: '<img src="assets/images/logo-monita.png" style="height:30px; vertical-align:middle; margin-right:8px;"> Monita Daffodil',
       repo: '',
       loadSidebar: true,
       // Aktifkan copy button
@@ -59,10 +67,10 @@
         noData: 'Tidak ada hasil',
         depth: 3          // level heading yg di-index
       },
-      math: {
-        inlineMath: [['$', '$']],   // cuma inline
-        displayMath: []             // block dimatikan
-      }
+      // math: {
+      //   inlineMath: [['$', '$']],   // cuma inline
+      //   displayMath: []             // block dimatikan
+      // }
         
 
     }
@@ -73,7 +81,7 @@
 
   <!-- Plugin pagination -->
    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-mathjax2/docsify-mathjax2.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-mathjax2/docsify-mathjax2.min.js"></script> -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 

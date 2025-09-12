@@ -13,6 +13,9 @@
     * [Tanggal & Waktu](menu/pengaturan/m_p_datetime.md)
     * [Sumber Perangkat](menu/pengaturan/m_p_sumber.md)
     * [Formula](menu/pengaturan/m_p_formula.md)
+    * [Alarm](menu/pengaturan/m_p_alarm.md)
+    * [Jaringan](menu/pengaturan/m_p_jaringan.md)
+    * [Protokol](menu/pengaturan/m_p_protokol.md)
 
 
 <!-- * [External Link](https://sauran.monita.co.id) -->
