@@ -1,21 +1,33 @@
-* [Home](/)
-<!-- * [Guide](guide.md "ini sesuatau guide") -->
-* [Quick Start](start_guide.md "Quick Start")
-  * [Install Catu Daya](guide/catu_daya.md)
-  * [Mulai](guide/mulai.md)
-* [Menu](start_menu.md "Menu")
-  * [Login](menu/m_login.md)
-  * [Beranda](menu/m_beranda.md)
-  * [Data](menu/m_data.md)
-  * Pengaturan
-    * [ID Tag](menu/pengaturan/m_p_idtag.md)
-    * [Kanal Fisik](menu/pengaturan/m_p_kanalfisik.md)
-    * [Tanggal & Waktu](menu/pengaturan/m_p_datetime.md)
-    * [Sumber Perangkat](menu/pengaturan/m_p_sumber.md)
-    * [Formula](menu/pengaturan/m_p_formula.md)
-    * [Alarm](menu/pengaturan/m_p_alarm.md)
-    * [Jaringan](menu/pengaturan/m_p_jaringan.md)
-    * [Protokol](menu/pengaturan/m_p_protokol.md)
+- [Pendahuluan](/)
 
+- Panduan Awal
+  - [Persiapan](quickstart/index.md)
+  - [Catu Daya](quickstart/powering.md)
+  - [Koneksi Device](quickstart/connection.md)
+  - [Login Device](quickstart/login.md)
 
-<!-- * [External Link](https://sauran.monita.co.id) -->
+- Menu Konfigurasi
+  - [Beranda](menu/homepage.md)
+  - [Data](menu/m_data.md)
+  - Pengaturan
+    - [ID Tag](menu/pengaturan/m_p_idtag.md)
+    - [Kanal Fisik](menu/pengaturan/m_p_kanalfisik.md)
+    - [Tanggal & Waktu](menu/pengaturan/m_p_datetime.md)
+    - [Sumber Perangkat](menu/pengaturan/m_p_sumber.md)
+    - [Formula](menu/pengaturan/m_p_formula.md)
+    - [Alarm](menu/pengaturan/m_p_alarm.md)
+    - [Jaringan](menu/pengaturan/m_p_jaringan.md)
+    - [Protokol](menu/pengaturan/m_p_protokol.md)
+    - [Unggah Konfigurasi](menu/pengaturan/upload_config.md)
+    - [Unduh Konfigurasi](menu/pengaturan/download_config.md)
+    - [Pembaruan Firmware](menu/pengaturan/update_firmware.md)
+    - [Simpan Konfigurasi](menu/pengaturan/save_config.md)
+    - [Setelah Pabrik](menu/pengaturan/reset.md)
+    - [Nyalakan Ulang](menu/pengaturan/reboot.md)
+  - [Pengelola Berkas](menu/explorer.md)
+  - [Debug](menu/debug.md)
+  - [Bahasa](menu/language.md)
+
+- Contoh Kasus
+  - [Kasus 1](usecase/index.md)
+  - [Kasus 2](usecase/index.md)

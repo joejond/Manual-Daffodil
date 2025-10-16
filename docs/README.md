@@ -1,22 +1,21 @@
 # Monita Daffodil
 
-> Merupakan Modul data akusisi yang dibuat oleh PT. Daun Biru Engineering (Indonesia) yang di gunaakan untuk berbagai kebutuhan monitoring ke beramacam sensor instrument dan di kirimkan ke jaringan internet (IoT)
+Adalah sebuah _edge device_ yang berfungsi untuk mengumpulkan dan mengirimkan data melalui jaringan internet. Dengan kemampuan untuk dapat terhubung ke berbagai instrumen sensor, alat yang dibuat dan dikembangkan oleh PT. Daun Biru Engineering ini dapat digunakan untuk memenuhi berbagai kebutuhan _monitoring_ di berbagai jenis industri.
 
-![Monita Daffodil 4.x](./assets/images/daffodil4.png  "Daffodil 4.")
+![Monita Daffodil 4.x](./assets/images/daffodil4.jpg  "Monita Daffodil 4.x")
 
-> Spesifikasi Umum
-* Tegangan Suplai 9 - 30 Vdc
-* 4 kanal _Input Digital_
-* 4 kanal _Output Digital_
-* 4 kanal _Input Analog_
-* 4G LTE Modem _embedded_ dengan GNSS
-* 1 10/100 Ethernet Conection
-* USB Tipe A, untuk _Console_ dan _Debugging_
-* Konektor SDCard (_Push Push_) 
-* Konektor SIMCard (_Push Push_)
-* 2 kanal RS485 (Modbus Slave/Master)
-* Dimensi 212 x 90 x 20.6 (mm)
+### Spesifikasi Umum
 
-
-
-
+* Dimensi 212 x 90 x 20.6 (mm).
+* Tegangan Suplai 9 - 30 V<sub>DC</sub>.
+* I/O:
+  * 4 kanal _Digital Input_.
+  * 4 kanal _Digital Output_.
+  * 4 kanal _Analog Input_.
+  * 2 kanal RS485 (Modbus Slave/Master).
+* Network:
+  * 4G LTE Modem dan GPS (GNSS).
+  * 1 10/100 Ethernet Conection.
+* USB Tipe B untuk _console_ dan _debugging_.
+* Soket _micro_ SD Card untuk penyimpanan data lokal.
+* Soket _micro_ SIM Card untuk koneksi ke _cellular network_.
