@@ -20,9 +20,12 @@ button.sidebar-toggle {
   top: 10px;
   left: 7px;
   bottom: unset;
+  width: 35px;
+  height: 35px;
+  background: white;
 }
 
-button.sidebar-toggle > div {
+button.sidebar-toggle>div {
   background: white;
   width: 16px;
   box-shadow: 0 0 30px white;
@@ -75,4 +78,26 @@ h1.app-name span {
   font-size: 16px;
   color: #0074d9;
   opacity: 0.3;
+}
+
+.search {
+  margin-top: 50px;
+  border-top: 1px solid #eee;
+}
+
+button.docsify-copy-code-button {
+  font-size: 10px;
+  opacity: 0.25;
+  background-color: gray;
+}
+
+button.docsify-copy-code-button:hover,
+code:hover+button.docsify-copy-code-button {
+  opacity: 1;
+  background-color: dodgerblue;
+}
+
+.pagination-item-title {
+  font-size: 16px !important;
+  margin-top: 10px;
 }
