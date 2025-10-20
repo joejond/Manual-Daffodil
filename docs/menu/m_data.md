@@ -2,7 +2,7 @@
 
 > Halaman ini digunakan untuk menampilkan data dari titik ukur (ID TAG) yang ada di modul
 
-![data_module](../assets/images/data_page.PNG)
+![data_module](../assets/images/data.png)
 
 Detail informasinya:
 
