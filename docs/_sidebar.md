@@ -17,7 +17,12 @@
     - [Formula](menu/pengaturan/m_p_formula.md)
     - [Alarm](menu/pengaturan/m_p_alarm.md)
     - [Jaringan](menu/pengaturan/m_p_jaringan.md)
-    - [Protokol](menu/pengaturan/m_p_protokol.md)
+    - Protokol
+      - [Monita](menu/pengaturan/protokol_monita.md)
+      - [Onlimo](menu/pengaturan/protokol_onlimo.md)
+      - [Sparing/WQMS](menu/pengaturan/protokol_wqms.md)
+      - [AQMS](menu/pengaturan/protokol_aqms.md)
+      - [Modbus Slave](menu/pengaturan/protokol_modbus.md)
     - [Unggah Konfigurasi](menu/pengaturan/upload_config.md)
     - [Unduh Konfigurasi](menu/pengaturan/download_config.md)
     - [Pembaruan Firmware](menu/pengaturan/update_firmware.md)
