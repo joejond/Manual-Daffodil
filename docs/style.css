@@ -101,3 +101,7 @@ code:hover+button.docsify-copy-code-button {
   font-size: 16px !important;
   margin-top: 10px;
 }
+
+.markdown-section blockquote p {
+  font-weight: 400;
+}
